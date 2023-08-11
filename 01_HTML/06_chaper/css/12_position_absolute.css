@@ -1,0 +1,42 @@
+.box1 {
+  /* 가로 */
+  width: 100px;
+  /* 세로 */
+  height: 100px;
+  /* 배경색 */
+  background-color: red;
+  /* 절대좌표(absolute) */
+  position: absolute;
+  /* 왼쪽(x좌표) */
+  left: 0px;
+  /* 위쪽(y좌표) */
+  top: 0px;
+  /*  */
+  z-index: 30;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  /* 절대좌표(absolute) */
+  position: absolute;
+  /* 왼쪽(x좌표) */
+  left: 40px;
+  /* 위쪽(y좌표) */
+  top: 40px;
+  /*  */
+  z-index: 20;
+}
+.box3 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  /* 절대좌표(absolute) */
+  position: absolute;
+  /* 왼쪽(x좌표) */
+  left: 80px;
+  /* 위쪽(y좌표) */
+  top: 80px;
+  /*  */
+  z-index: 10;
+}
