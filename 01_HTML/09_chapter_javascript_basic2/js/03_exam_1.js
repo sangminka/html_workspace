@@ -98,3 +98,7 @@
 // let num2 = Number(prompt("두번째 숫자를 입력해 주세요"))
 // let num3 = Number(prompt("세번째 숫자를 입력해 주세요"))
 // sum_average(num1,num2,num3)
+// let i = 19;
+// if( i == 19 ){
+//     console.log("19살이면 성인입니다.")
+// }else if( if >=)
